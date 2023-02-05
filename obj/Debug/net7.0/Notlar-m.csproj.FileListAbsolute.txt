@@ -1,0 +1,15 @@
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\bin\Debug\net7.0\Notlar-m.exe
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\bin\Debug\net7.0\Notlar-m.deps.json
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\bin\Debug\net7.0\Notlar-m.runtimeconfig.json
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\bin\Debug\net7.0\Notlar-m.dll
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\bin\Debug\net7.0\Notlar-m.pdb
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\Notlar-m.csproj.AssemblyReference.cache
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\Notlar-m.GeneratedMSBuildEditorConfig.editorconfig
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\Notlar-m.AssemblyInfoInputs.cache
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\Notlar-m.AssemblyInfo.cs
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\Notlar-m.csproj.CoreCompileInputs.cache
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\Notlar-m.dll
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\refint\Notlar-m.dll
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\Notlar-m.pdb
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\Notlar-m.genruntimeconfig.cache
+F:\BütünDosyalar\Unity Projeleri\Notlar-m\obj\Debug\net7.0\ref\Notlar-m.dll
